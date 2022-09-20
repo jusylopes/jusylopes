@@ -2,7 +2,7 @@
 <h5 align="center">Desenvolvedora Front-end | Flutter | Dart | API </h5>
 
 
-- 🌱 Atualmente estou aprendendo **Flutter**
+- 🌱 Atualmente estou aprendendo **Flutter** e **Dart**
 - 🎓 Graduada em Sistemas de Informação na Universidade Salvador
 - 📫 Como entrar em contato comigo: **jusylopes@outlook.com**
 
