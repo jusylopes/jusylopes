@@ -4,3 +4,5 @@
 
 - 🌱 Atualmente estou aprendendo **Flutter**
 - 📫 Como entrar em contato comigo: **jusylopes@outlook.com**
+
+![snake gif](https://github.com/jusylopes/jusylopes/blob/output/github-contribution-grid-snake.svg)
