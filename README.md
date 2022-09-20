@@ -1,4 +1,4 @@
-<h1 align="center">Oiiiii.. 👋🏻, eu sou a Jusy Lopes</h1>
+<h2 align="center">Oiiiii.. 👋🏻, eu sou a Jusy Lopes</h2>
 <h4 align="center">Desenvolvedora Front-end | Flutter | Dart | API </h4>
 
 
