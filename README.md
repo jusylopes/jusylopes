@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo **Flutter** e **Dart**
 - 🎓 Graduada em Sistemas de Informação na Universidade Salvador
-- 📫 Como entrar em contato comigo: **jusylopes@outlook.com**
+- 📫 Como entrar em contato comigo?! **[linkedin](https://www.linkedin.com/in/jusy-lopes/)**
 
 
 ![snake gif](https://github.com/jusylopes/jusylopes/blob/output/github-contribution-grid-snake.svg)
