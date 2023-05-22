@@ -4,7 +4,7 @@
 
 💻 Eu sou uma desenvolvedora [Front-End]
 
-🎓 Sou graduada em Sistemas de Informação na Universidade Salvador
+🎓 Sou graduada em Sistemas de Informação na [Universidade Salvador](https://www.unifacs.br)
 
 📓 Estudei Tecnologia da Informação com ênfase em Desenvolvimento de Software no [Instituto Federal da Bahia](https://portal.ifba.edu.br) e, Desenvolvimento de Software com Flutter na [Cubos Academy](https://cubos.academy/)
 
