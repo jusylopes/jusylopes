@@ -6,7 +6,7 @@
 
 🎓 Sou graduada em Sistemas de Informação na Universidade Salvador
 
-📓 Estudei Tecnologia da Informação com ênfase em Desenvolvimento de Software no [Instituto Fedeal da Bahia](https://portal.ifba.edu.br) e, Desenvolvimento de Software com Flutter na [Cubos Academy](https://cubos.academy/)
+📓 Estudei Tecnologia da Informação com ênfase em Desenvolvimento de Software no [Instituto Federal da Bahia](https://portal.ifba.edu.br) e, Desenvolvimento de Software com Flutter na [Cubos Academy](https://cubos.academy/)
 
 
 ### Tecnologias e Ferramentas... 🧩
