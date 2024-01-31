@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-💻 Eu sou uma desenvolvedora [Front-End]
+💻 Eu sou uma desenvolvedora [Front-End] especialista em Flutter
 
 🎓 Sou graduada em Sistemas de Informação na [Universidade Salvador](https://www.unifacs.br)
 
