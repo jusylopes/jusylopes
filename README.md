@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-💻 Eu sou uma desenvolvedora {Front-End} especialista em Flutter, apaixonada por tecnologia e desenvolvimento mobile 📱.
+💻 Eu sou uma desenvolvedora {Front-End} especialista em Flutter, apaixonada por tecnologia e desenvolvimento mobile.
 
 🎓 Sou graduada em Sistemas de Informação na [Universidade Salvador](https://www.unifacs.br) e estudei Tecnologia da Informação com ênfase em Desenvolvimento de Software no [Instituto Federal da Bahia](https://portal.ifba.edu.br).
 
