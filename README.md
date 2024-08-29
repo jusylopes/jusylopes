@@ -2,23 +2,39 @@
 
 ## Sobre mim
 
-💻 Eu sou uma desenvolvedora [Front-End] especialista em Flutter
+💻 Eu sou uma desenvolvedora {Front-End} especialista em Flutter, apaixonada por tecnologia e desenvolvimento mobile 📱.
 
-🎓 Sou graduada em Sistemas de Informação na [Universidade Salvador](https://www.unifacs.br)
+🎓 Sou graduada em Sistemas de Informação na [Universidade Salvador](https://www.unifacs.br) e estudei Tecnologia da Informação com ênfase em Desenvolvimento de Software no [Instituto Federal da Bahia](https://portal.ifba.edu.br).
 
-📓 Estudei Tecnologia da Informação com ênfase em Desenvolvimento de Software no [Instituto Federal da Bahia](https://portal.ifba.edu.br) e, Desenvolvimento de Software com Flutter na [Cubos Academy](https://cubos.academy/)
+📓 Participei do bootcamp de Desenvolvimento de Software com Flutter na [Cubos Academy](https://cubos.academy/) em parceria com a Nubank e, do [Desenvolve] 2024 do Grupo Boticário na trilha de Desenvolvimento Mobile.
 
+🎲 Fun fact: Um dia, enquanto eu estava programando, um bêbado invadiu a minha casa! Felizmente, tudo terminou bem!
 
-### 🛠 Tech Stack
+### Tech Stack
 
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)
-![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=00ADD8)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=00ADD8)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+</div>
 
-### 📭 Entre em contato comigo! 
-<div>  
- <a href="https://www.linkedin.com/in/jusy-lopes/" > <img align="center" src="https://img.shields.io/badge/- jusylopes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</div> 
-  
