@@ -8,7 +8,6 @@
 
 📓 Participei do bootcamp de Desenvolvimento de Software com Flutter na [Cubos Academy](https://cubos.academy/) em parceria com a Nubank e, do [Desenvolve] 2024 do Grupo Boticário na trilha de Desenvolvimento Mobile.
 
-🎲 Fun fact: Um dia, enquanto eu estava programando, um bêbado invadiu a minha casa! Felizmente, tudo terminou bem!
 
 ### Tech Stack
 
