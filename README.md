@@ -6,8 +6,9 @@
 
 🎓 Sou graduada em Sistemas de Informação na [Universidade Salvador](https://www.unifacs.br) e estudei Tecnologia da Informação com ênfase em Desenvolvimento de Software no [Instituto Federal da Bahia](https://portal.ifba.edu.br).
 
-📓 Participei do bootcamp de Desenvolvimento de Software com Flutter na [Cubos Academy](https://cubos.academy/) em parceria com a Nubank e, do [Desenvolve] 2024 do Grupo Boticário na trilha de Desenvolvimento Mobile.
+📓 Participei do bootcamp de Desenvolvimento de Software com Flutter na Cubos Academy em parceria com a Nubank e do Desenvolve 2024 do Grupo Boticário, na trilha de Desenvolvimento Mobile.
 
+🚀 Em 2024, fiz minha primeira publicação na Google Play Store com o app [Fiveflix](https://play.google.com/store/apps/details?id=com.fiveflix.app). Também construí meu portfólio pessoal o [jdevlopes.com](https://jdevlopes.com), onde você pode conhecer mais sobre meus projetos e carreira.
 
 ### Tech Stack
 
@@ -23,10 +24,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
